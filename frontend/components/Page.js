@@ -8,7 +8,7 @@ class Page extends React.Component {
                 <Header/>
                 {this.props.children}
             </section>
-        ); 
+        );
     }
 }
 
